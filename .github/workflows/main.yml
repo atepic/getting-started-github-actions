@@ -45,7 +45,7 @@ jobs:
       - name: Step 7 - Log build tool versions
         run: | 
          git --version
-         mnv --version
+         mvn --version
          ant -version
          gradle --version
          
