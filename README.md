@@ -1,1 +1,1 @@
-# getting-startted-github-actions
+# getting-started-github-actions
